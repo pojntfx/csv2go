@@ -1,10 +1,10 @@
 # csv-to-go-generator
 
-TODO: Add description
+Generate Go code containing a multi-dimensional array with the contents of a CSV file.
 
 ## Overview
 
-TODO: Add overview
+`csv-to-go-generator` is a Go code generator that takes a CSV file as it's input and creates a multidimensional array is it's output.
 
 ## Installation
 
