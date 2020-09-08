@@ -1,20 +1,20 @@
-# csv-to-go-generator
+# csv2go
 
 Generate Go code containing a multi-dimensional array with the contents of a CSV file.
 
 ## Overview
 
-`csv-to-go-generator` is a Go code generator that takes a CSV file as it's input and creates a multidimensional array is it's output.
+`csv2go` is a Go code generator that takes a CSV file as it's input and creates a multidimensional array is it's output.
 
 ## Installation
 
-A Go package [is available](https://pkg.go.dev/mod/github.com/pojntfx/csv-to-go-generator).
+A Go package [is available](https://pkg.go.dev/mod/github.com/pojntfx/csv2go).
 
 ## Usage
 
 ```bash
-% csv-to-go-generator -help
-Usage of csv-to-go-generator:
+% csv2go -help
+Usage of csv2go:
   -in string
         Path to the CSV input file (default "data.csv")
   -out string
@@ -25,6 +25,6 @@ Usage of csv-to-go-generator:
 
 ## License
 
-csv-to-go-generator (c) 2020 Felicitas Pojtinger
+csv2go (c) 2020 Felicitas Pojtinger
 
 SPDX-License-Identifier: AGPL-3.0
