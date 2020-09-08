@@ -1,4 +1,4 @@
-module github.com/pojntfx/csv-to-go-generator
+module github.com/pojntfx/csv2go
 
 go 1.15
 

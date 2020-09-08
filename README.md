@@ -1,12 +1,18 @@
 # csv2go
 
-Generate Go code containing a multi-dimensional array with the contents of a CSV file.
+Generates Go code containing a multi-dimensional array with the contents of a CSV file.
 
 ## Overview
 
 `csv2go` is a Go code generator that takes a CSV file as it's input and creates a multidimensional array is it's output.
 
 ## Installation
+
+### Prebuilt Binaries
+
+Linux, macOS and Windows binaries are available on [GitHub Releases](https://github.com/pojntfx/csv2go/releases).
+
+### Go Package
 
 A Go package [is available](https://pkg.go.dev/mod/github.com/pojntfx/csv2go).
 
